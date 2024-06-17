@@ -9,7 +9,7 @@ document.addEventListener("DOMContentLoaded", () => {
   title.innerText = "Miranda";
 
   desc.innerText =
-    "Happy 20th Birthday!\nMay your special day be filled with joy and happiness.\nI hope you find happiness in the choices you have made and discover all the joy you seek.";
+    "Happy 20th Birthday!\nMay your special day be filled with joy and happiness.\nI hope you find happiness in the CHOICCE you have made and discover all the joy you seek.";
 
   // Menambahkan event listener untuk tombol "Click me"
   showImageBtn.addEventListener("click", () => {
